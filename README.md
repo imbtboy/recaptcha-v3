@@ -3,4 +3,4 @@ This api can solve more than 95% of the websites with recaptcha v3 version. The 
 
 contact me: https://t.me/shineho
 
-update: 2023-06-21
+update: 2023-08-24
